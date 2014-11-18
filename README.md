@@ -1,2 +1,3 @@
-info_l3
+Cours informatique et outils numériques L3
 =======
+
